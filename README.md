@@ -1,2 +1,1 @@
 # Lung Imaging
-# Lung-Imaging
